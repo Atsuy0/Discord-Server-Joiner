@@ -1,4 +1,4 @@
-# Welcome to my Discord Server Joiner
+
   
 ## 📖 Requirements:
 ```
@@ -18,11 +18,6 @@
   - node main.js
 ```
 
-## 📌 Support
-```
-  - Discord : https://discord.gg/GMFgcDQvT3
-  - Username : Atsuyo#4292
-```
 
 
 
